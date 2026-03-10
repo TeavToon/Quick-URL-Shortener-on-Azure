@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f1e9fc30-c5ea-41dc-bd15-a7597a4b3a02/resourceGroups/appsvc_linux_southeastasia/providers/Microsoft.Web/sites/quick-url-shortener-on-azure",
+    "appService.deploySubpath": "."
+}
